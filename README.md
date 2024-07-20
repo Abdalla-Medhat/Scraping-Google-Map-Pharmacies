@@ -12,7 +12,7 @@
     The URL changes dynamically based on the search term and the location.
   </li>
 </ul>
-<p><b>In this project, I used Python and these libraries:</b></p>
+<h3>In this project, I used Python and these libraries:</h3>
 <ol type='1'>
   <b>
     <li>Selenium</li>
