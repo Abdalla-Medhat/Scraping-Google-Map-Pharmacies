@@ -11,6 +11,7 @@
   <li>
     The URL changes dynamically based on the search term and the location.
   </li>
+  <li><b>Notice:</b> The project may not work after a while, but the main concept and the method will remain the same.</li>
 </ul>
 <h3>In this project, I used Python and these libraries:</h3>
 <ol type='1'>
